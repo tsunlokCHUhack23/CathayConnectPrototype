@@ -1,0 +1,18 @@
+<svg width="31" height="529" viewBox="0 0 31 529" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="16" cy="15" r="13.5" stroke="#4D8F92" stroke-width="3"/>
+<circle cx="16" cy="112" r="13.5" stroke="#4D8F92" stroke-width="3"/>
+<circle cx="16" cy="111.998" r="7.5" fill="#4D8F92" stroke="#4D8F92" stroke-width="3"/>
+<circle cx="16" cy="201" r="13.5" stroke="black" stroke-width="3"/>
+<circle cx="15" cy="262" r="13.5" stroke="black" stroke-width="3"/>
+<circle cx="15" cy="331" r="13.5" stroke="black" stroke-width="3"/>
+<circle cx="15" cy="384" r="13.5" stroke="black" stroke-width="3"/>
+<circle cx="16" cy="448" r="13.5" stroke="black" stroke-width="3"/>
+<circle cx="16" cy="499" r="13.5" stroke="black" stroke-width="3"/>
+<path d="M16 29L16 97" stroke="#4D8F92" stroke-width="3"/>
+<path d="M16 127L16 186.5" stroke="black" stroke-width="3"/>
+<path d="M16.5 214L16.5 247.5" stroke="black" stroke-width="3"/>
+<path d="M15.9999 344.5L16 369.5" stroke="black" stroke-width="3"/>
+<path d="M16 275L16 316" stroke="black" stroke-width="3"/>
+<path d="M15.9999 398L16 433" stroke="black" stroke-width="3"/>
+<path d="M16.5 461.5L16.5 484" stroke="black" stroke-width="3"/>
+</svg>
