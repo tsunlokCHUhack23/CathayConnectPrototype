@@ -1,0 +1,8 @@
+<svg width="44" height="44" viewBox="0 0 44 44" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="40" height="40" rx="4" fill="#BAF1F3"/>
+<path d="M13 14V14C13 12.1205 13 11.1808 13.5747 10.5969C13.5821 10.5895 13.5895 10.5821 13.5969 10.5747C14.1808 10 15.1138 10 16.98 10H23.02C24.8862 10 25.8192 10 26.4031 10.5747C26.4105 10.5821 26.4179 10.5895 26.4253 10.5969C27 11.1808 27 12.1205 27 14V14M13 14H27M13 14V23M27 14V23M27 23V26.5C27 27.3284 26.3284 28 25.5 28V28M27 23C27 23 26 22 20 22C14 22 13 23 13 23M13 23V26.5C13 27.3284 13.6716 28 14.5 28V28M18 28V28C18 27.1716 18.6716 26.5 19.5 26.5H20.5C21.3284 26.5 22 27.1716 22 28V28M18 28H22M18 28H16M22 28H24M16 12C16.4 12 21.5 12 24 12M14.5 28V30H16V28M14.5 28H16M24 28V30H25.5V28M24 28H25.5" stroke="#6B82C0" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="16" cy="25" r="1" stroke="#6B82C0" stroke-width="0.75" stroke-linejoin="round"/>
+<circle cx="24" cy="25" r="1" stroke="#6B82C0" stroke-width="0.75" stroke-linejoin="round"/>
+<circle cx="38.5" cy="38.5" r="5.5" fill="#2B3031"/>
+<path d="M36 38.5C36.8333 39.3333 38 40.5 38 40.5L41.5 37" stroke="white"/>
+</svg>
